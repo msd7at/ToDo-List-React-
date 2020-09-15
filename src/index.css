@@ -20,7 +20,7 @@ text-align: center;
 
 }
 .center_div{
-  width: 25%;
+  width: auto;
   height: 80vh;
   background-color: #f4f4f4;
   box-shadow: 5px 5px 25px -5px black;
